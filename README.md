@@ -1,8 +1,11 @@
-# Hey There!:
-🖐 I'm Jane Karuga and I love solving problems, creating scalable solutions, and exploring the endless possibilities of technology.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=WambuiJane.Wambuijane" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jane+Karuga!;" />
+</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on Micro services <br>👯 I’m looking to collaborate on projects that challenge my skillset<br>🌱 I’m currently learning Java and Springboot framework <br>💬 Ask me about Artificial Intelligence and LLMs,I think they have alot to be unwrapped <br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jane-karuga/) 
